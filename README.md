@@ -12,7 +12,4 @@ Biomedical engineering student passionate about medical AI and clinical engineer
 ![](https://nirzak-streak-stats.vercel.app/?user=Actheadapter&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Actheadapter&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Actheadapter&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
