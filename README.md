@@ -9,6 +9,41 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Actheadapter&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h1 align="center">AI for Real-World Medical Systems</h1>
 
+<p align="center">
+  Detection • Prediction • Healthcare Intelligence
+</p>
+
+---
+
+## 🔬 Current Focus
+
+- 🦴 Osteoporosis Detection using AI & Medical Data
+- 🩺 Diabetes Risk Prediction (End-to-End ML Pipeline)
+- 🤖 AI-based Disease Detection Systems
+- 📊 Robust Model Validation for Clinical Use
+- 🏥 Real-world Healthcare AI Applications
+
+---
+
+## 🧠 Research Direction
+
+- Early disease detection using machine learning
+- AI-assisted diagnostic support systems
+- Signal and data-driven medical detection
+- Model reliability in healthcare environments
+- Preventive AI for chronic diseases
+
+---
+
+## ⚙️ Tech Stack
+
+### 🧪 Machine Learning & Data Science
+```text
+Python • Scikit-learn • Pandas • NumPy
+Matplotlib • Model Evaluation Metrics
+Logistic Regression • Decision Trees • MLP
+Stratified K-Fold • ROC-AUC Analysis
 
 
