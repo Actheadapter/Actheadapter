@@ -16,16 +16,13 @@
 - 🦴 Osteoporosis Detection using AI & Medical Data
 - 🩺 Diabetes Risk Prediction (End-to-End ML Pipeline)
 - 🤖 AI-based Disease Detection Systems
-- 📊 Robust Model Validation for Clinical Use
-- 🏥 Real-world Healthcare AI Applications
 
 ---
 
-## 🧠 Research Direction
+## 🔖Research Direction
 
 - Early disease detection using machine learning
 - AI-assisted diagnostic support systems
-- Signal and data-driven medical detection
 - Model reliability in healthcare environments
 - Preventive AI for chronic diseases
 
