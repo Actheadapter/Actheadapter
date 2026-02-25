@@ -9,11 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Actheadapter&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h1 align="center">AI for Real-World Medical Systems</h1>
-
-<p align="center">
-  Detection • Prediction • Healthcare Intelligence
-</p>
+## Medical AI | Detection | Prediction
 
 ---
 
