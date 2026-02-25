@@ -10,5 +10,48 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+from PIL import Image, ImageDraw, ImageFont
 
+# Image size
+width, height = 1200, 400
+
+# Create gradient background
+img = Image.new("RGB", (width, height), "#0f172a")
+draw = ImageDraw.Draw(img)
+
+# Gradient effect
+for y in range(height):
+    r = int(15 + (y / height) * 20)
+    g = int(23 + (y / height) * 30)
+    b = int(42 + (y / height) * 60)
+    draw.line([(0, y), (width, y)], fill=(r, g, b))
+
+# Fonts (fallback if not installed)
+try:
+    title_font = ImageFont.truetype("arial.ttf", 60)
+    subtitle_font = ImageFont.truetype("arial.ttf", 30)
+except:
+    title_font = ImageFont.load_default()
+    subtitle_font = ImageFont.load_default()
+
+# Title text
+title = "Diabetes Prediction AI"
+subtitle = "Machine Learning • Healthcare • Data Science"
+
+# Center title
+title_w, title_h = draw.textsize(title, font=title_font)
+subtitle_w, subtitle_h = draw.textsize(subtitle, font=subtitle_font)
+
+draw.text(((width - title_w) / 2, 120), title, font=title_font, fill="#38bdf8")
+draw.text(((width - subtitle_w) / 2, 200), subtitle, font=subtitle_font, fill="#e2e8f0")
+
+# Bottom tag
+tag = "Built with Python & Scikit-learn"
+tag_w, _ = draw.textsize(tag, font=subtitle_font)
+draw.text(((width - tag_w) / 2, 300), tag, font=subtitle_font, fill="#94a3b8")
+
+# Save image
+img.save("github_banner.png")
+
+print("✅ Banner created: github_banner.png")
 
