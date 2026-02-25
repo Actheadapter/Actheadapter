@@ -11,22 +11,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
-## 🔬 Current Focus
 
-- 🦴 Osteoporosis Detection using AI & Medical Data
-- 🩺 Diabetes Risk Prediction (End-to-End ML Pipeline)
-- 🤖 AI-based Disease Detection Systems
-
----
-
-## 🔖Research Direction
-
-- Early disease detection using machine learning
-- Model reliability in healthcare environments
-- Preventive AI for chronic diseases
-
-
----
 
 
 
