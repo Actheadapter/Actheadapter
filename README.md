@@ -37,13 +37,5 @@
 
 ---
 
-## ⚙️ Tech Stack
-
-### 🧪 Machine Learning & Data Science
-```text
-Python • Scikit-learn • Pandas • NumPy
-Matplotlib • Model Evaluation Metrics
-Logistic Regression • Decision Trees • MLP
-Stratified K-Fold • ROC-AUC Analysis
 
 
